@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.center-div{
+    padding-top:  10%;
+   
+}
+
+.btn.btn-success{
+    
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+form{
+    padding: 0 3em;
+}
