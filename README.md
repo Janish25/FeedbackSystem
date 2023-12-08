@@ -16,8 +16,3 @@ Bootstrap
 EJS
 
 
-Excited about this milestone and eager to hear your thoughts! 🚀💬
-
-#WebDevelopment #NodeJS #ExpressJS #MongoDB #Bootstrap #FeedbackSystem #Innovation
-
-Feel free to personalize the hashtags and add any specific details that you think would resonate with your LinkedIn audience!
